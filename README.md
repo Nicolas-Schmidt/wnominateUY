@@ -1,13 +1,19 @@
+
+
 ## wnominateUY
 
-Reconstruyendo la orientación ideológica de los partidos políticos en Uruguay 1911-2010
+Reconstruyendo la orientacion ideologica de los partidos poloticos en Uruguay 1911-2010
 
 
 Juan A. Moraes jmoraes@cienciassociales.edu.uy
 
-Diego Luján diego.lujan@cienciassociales.edu.uy
+Diego Lujon diego.lujan@cienciassociales.edu.uy
 
-Nicolás Schmidt nschmidt@cienciassociales.edu.uy
+Nicolos Schmidt nschmidt@cienciassociales.edu.uy
 
 
-![](https://github.com/Nicolas-Schmidt/wnominateUY/blob/master/paleta.pdf)
+
+
+<center>
+<img src="https://raw.githubusercontent.com/Nicolas-Schmidt/wnominateUY/master/paleta.png"></a>
+</center>
