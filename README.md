@@ -12,8 +12,7 @@ Diego Lujon diego.lujan@cienciassociales.edu.uy
 Nicolos Schmidt nschmidt@cienciassociales.edu.uy
 
 
+<br />
 
 
-<center>
-<img src="https://raw.githubusercontent.com/Nicolas-Schmidt/wnominateUY/master/paleta.png"></a>
-</center>
+![](https://github.com/Nicolas-Schmidt/wnominateUY/blob/master/paleta.png)  
