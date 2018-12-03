@@ -15,6 +15,6 @@ Nicolos Schmidt nschmidt@cienciassociales.edu.uy
 <br />
 
 
-![](https://github.com/Nicolas-Schmidt/wnominateUY/blob/master/paleta.jpeg)  
+![](https://github.com/Nicolas-Schmidt/wnominateUY/blob/master/paleta1.png)  
 
-![](https://github.com/Nicolas-Schmidt/wnominateUY/blob/master/paleta1.png) 
+![](https://github.com/Nicolas-Schmidt/wnominateUY/blob/master/paleta.jpeg) 
