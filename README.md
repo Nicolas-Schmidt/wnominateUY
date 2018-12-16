@@ -7,7 +7,7 @@ Reconstruyendo la orientacion ideologica de los partidos poloticos en Uruguay 19
 
 Juan A. Moraes jmoraes@cienciassociales.edu.uy
 
-Diego Lujon diego.lujan@cienciassociales.edu.uy
+Diego Luján diego.lujan@cienciassociales.edu.uy
 
 Nicolos Schmidt nschmidt@cienciassociales.edu.uy
 
